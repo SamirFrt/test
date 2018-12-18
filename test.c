@@ -2,7 +2,8 @@
 
 int main(){
 
-printf("Hello world");
+printf("Hello world ! ! ! \n");
+printf("Bienvenue sur GitHub");
 
 return 0;
 }
